@@ -1,0 +1,8 @@
+[root@ip-10-0-24-11 ec2-user]# sudo su
+[root@ip-10-0-24-11 ec2-user]# yum -y update
+Amazon Linux 2023 repository                                                                                                                                                       67 MB/s |  54 MB     00:00    
+Amazon Linux 2023 Kernel Livepatch repository                                                                                                                                     224 kB/s |  31 kB     00:00    
+Dependencies resolved.
+Nothing to do.
+Complete!
+[root@ip-10-0-24-11 ec2-user]# 
