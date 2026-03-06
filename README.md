@@ -1,13 +1,13 @@
 <h1>AWS Solutions Architect </h1>
 
-<h2>Creating a NAT Gateway in AWS</h2>
+<h2>Creating a NAT Gateway in AWS - Linux server</h2>
 
 - <b>Create a Virtual Private Cloud (VPC) in the US East (N. Virginia) us-east-1 region  </b>
 - <b>Create private and public subnets </b>
 - <b>Create Internet Gateway </b>
 - <b> Create a public Route table and configure  </b>
-- <b>Launch an EC2 instance using the public subnet </b>
-- <b>Launch an EC2 instance using the private subnet </b>
+- <b>Launch a Linux EC2 instance using the public subnet </b>
+- <b>Launch a Linux EC2 instance using the private subnet </b>
 - <b>Connect to both the public and private EC2 instances and test internet connectivity </b>
 - <b>Create a NAT Gateway </b>
 - <b>Update Route table and configure NAT Gateway </b>
@@ -85,7 +85,7 @@ Testing Internet connectivity for EC2 instance using the public subnet<br/>
 <br />
 
 <p align="center">
-Connect to the EC2 instance using the private subnet using the one using the private subnet <br/>
+Connect to the EC2 instance using the private subnet, from the one using the public subnet <br/>
 <img width="940" height="348" alt="image" src="https://github.com/user-attachments/assets/7cfe9195-be31-439d-af89-2e58a8bc80d8" />
 <img width="920" height="792" alt="image" src="https://github.com/user-attachments/assets/17c7a689-5334-48d4-a79d-5d3939e6a0bd" />
 <img width="820" height="795" alt="image" src="https://github.com/user-attachments/assets/038660c9-c41f-486f-a84f-c0ad0943372a" />
